@@ -1,0 +1,6 @@
+framework module Pods_PLLComponent_Tests {
+  umbrella header "Pods-PLLComponent_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

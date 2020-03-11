@@ -1,0 +1,6 @@
+framework module PLLComponent {
+  umbrella header "PLLComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

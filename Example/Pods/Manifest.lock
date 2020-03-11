@@ -1,0 +1,16 @@
+PODS:
+  - PLLComponent (0.1.0)
+
+DEPENDENCIES:
+  - PLLComponent (from `../`)
+
+EXTERNAL SOURCES:
+  PLLComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLLComponent: 3efae41d568f7a0157025ed1d7dcf7fb38853ca7
+
+PODFILE CHECKSUM: 07c185ee5ac23f676293728490651abdce0755dd
+
+COCOAPODS: 1.7.1
