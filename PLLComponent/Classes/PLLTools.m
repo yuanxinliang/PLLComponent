@@ -21,6 +21,10 @@
     NSLog(@"%s", __func__);
 }
 
+- (void)check {
+    NSLog(@"%s", __func__);
+}
+
 - (NSString *)description {
     return self.toolType.length > 0 ? self.toolType : @"null";
 }
