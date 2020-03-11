@@ -17,6 +17,10 @@
     NSLog(@"%s", __func__);
 }
 
+- (void)pause {
+    NSLog(@"%s", __func__);
+}
+
 - (NSString *)description {
     return self.toolType.length > 0 ? self.toolType : @"null";
 }
