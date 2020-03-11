@@ -23,6 +23,9 @@
 
 - (void)check {
     NSLog(@"%s", __func__);
+    NSLog(@"%s", __func__);
+    NSLog(@"%s", __func__);
+    NSLog(@"%s", __func__);
 }
 
 - (NSString *)description {

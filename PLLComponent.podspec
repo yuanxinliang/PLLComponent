@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'PLLComponent'
-  s.version          = '0.2.1'
+  s.version          = '0.2.2'
   s.summary          = 'PLLComponent.'
   s.description      = <<-DESC
   this is a good component.
